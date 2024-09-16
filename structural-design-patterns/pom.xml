@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ / **
+  ~ * Created by ThinhTN on 8/29/24, 2:26 PM
+  ~ * Copyright (c) 2024 . All rights reserved.
+  ~ * Last modified 8/29/24, 2:26 PM
+  ~ */
+  -->
+
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -9,7 +17,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>createtinal-design-patterns</artifactId>
+    <artifactId>structural-design-patterns</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
